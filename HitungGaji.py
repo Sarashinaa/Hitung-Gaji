@@ -35,5 +35,5 @@ nik = input("Masukkan NIK: ")
 status = input("Masukkan Status (Pegawai Tetap/Honor): ")
 golongan = input("Masukkan Golongan (A/B/C): ")
 
-# panggil fungsi hitung_gaji
+# panggil fungsi hitungGaji
 hitungGaji(nama, nik, status, golongan)
